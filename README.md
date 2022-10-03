@@ -1,4 +1,4 @@
-<h1 align="center">Hello,👋, Greetings. This is ananda khan ,</h1>
+<h1 align="center">Hello,👋, Greetings. This is ananda khan </h1>
 <h3 align="center">A passionate Artificial Intelligence/Machine Learning engineer from RUET, Bangladesh.</h3>
 <img align="right"alt="coding"width="330"height="230"src="https://user-images.githubusercontent.com/91039001/193444567-04305c2e-c231-4c9b-bbf4-68b5ae9b4668.gif">
 
